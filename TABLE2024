@@ -1,0 +1,45 @@
+<html>
+<body>
+    <head>
+        <title> TUGAS TABLE PUTRA </title>
+    </head>
+</body>
+<table border="1">
+    <tr>
+        <th><font color="yellow">No</font></th>
+                <th><font color="red">Nama</font></th>
+                <th><font color="green">Jenis Kelamin</font></th>
+                <th><font color="blue">Alamat</font></th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>MASZYA BIANDHARA RAMADHANI</td>
+        <td>PEREMPUAN</td>
+        <td>MAKASSAR</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>MIKYONA ERSA JANIANDRA</td>
+        <td>PEREMPUAN</td>
+        <td>JAKARTA</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>MUHAMMAD HASBI MA'RUF KAMIL</td>
+        <td>LAKI - LAKI</td>
+        <td>BOGOR</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>NAYA AIMA RUSTANDI</td>
+        <td>PEREMPUAN</td>
+        <td>BOGOR</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>PUTRA EVAN FEBRYAN</td>
+        <td>LAKI - LAKI</td>
+        <td>BOGOR</td>
+    </tr>
+</table>
+</html>
